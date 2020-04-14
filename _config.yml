@@ -52,6 +52,10 @@ topics:
     web_url: https://github.com/topics/android-development
     image_url: https://www.android.com/static/images/fav/touch-icon-ipad-retina.png
 
-#  - name: Sass
-#    web_url: https://github.com/topics/sass
-#    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Automotive Industry
+    #web_url: https://github.com/topics/sass
+    image_url: https://image.flaticon.com/icons/svg/1186/1186267.svg
+
+  - name: Internet of Things
+    #web_url: https://github.com/topics/sass
+    image_url: assets\images\IoT3.png
