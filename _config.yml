@@ -54,7 +54,8 @@ topics:
 
   - name: Automotive Industry
     #web_url: https://github.com/topics/sass
-    image_url: https://image.flaticon.com/icons/svg/1186/1186267.svg
+    image_url: assets\images\manufacturing.png
+    #https://image.flaticon.com/icons/svg/1186/1186267.svg
 
   - name: Internet of Things
     #web_url: https://github.com/topics/sass
