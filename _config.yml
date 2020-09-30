@@ -60,3 +60,7 @@ topics:
   - name: Internet of Things
     #web_url: https://github.com/topics/sass
     image_url: assets\images\IoT3.png
+
+  - name: SketchUp Modelling
+    web_url: https://www.sketchup.com/
+    image_url: assets\images\google-sketchup.png
